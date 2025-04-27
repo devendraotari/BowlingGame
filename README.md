@@ -54,4 +54,4 @@ This function ensures that the scoreboard clearly indicates strikes and spares i
 To compile the project, you need a C++ compiler (e.g., g++). Use the following command in your terminal:
 
 ```bash
-g++ -std=c++11 -o BowlingGame main.cpp
+g++ -std=c++11 -o BowlingGame bowling_game_main.cxx
