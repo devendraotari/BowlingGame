@@ -51,7 +51,4 @@ This function ensures that the scoreboard clearly indicates strikes and spares i
 
 ## How to Compile
 
-To compile the project, you need a C++ compiler (e.g., g++). Use the following command in your terminal:
-
-```bash
-g++ -std=c++11 -o BowlingGame bowling_game_main.cxx
+To run this project open the solution file in visula studio and build and run the code
